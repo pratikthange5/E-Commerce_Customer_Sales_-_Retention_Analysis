@@ -1,0 +1,7 @@
+rows: 7996
+customers: 2090
+orders: 7996
+top_sales_category: Electronics
+top_profit_category: Electronics
+top_segment: Regular
+top_payment: UPI
